@@ -4,3 +4,4 @@ Fehler "compdef: unknown command or service: git"
 - compaudit | sudo xargs chmod g-w
 - compaudit | sudo xargs chown root
 - compinit
+
